@@ -1,4 +1,4 @@
-![fraphpuccino](http://raw.github.com/tomikvitek/fraphpuccino/master/img/fraphpuccino.png)
+![fraphpuccino](/img/fraphpuccino.png)
 
 *fraphpuccino* is very simple static-like website generator written in [Nette](https://nette.org) (PHP).
 
