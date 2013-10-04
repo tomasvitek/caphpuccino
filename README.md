@@ -1,6 +1,6 @@
 ![caphpuccino](/img/caphpuccino.png)
 
-*caphpuccino* is very simple static-like website generator written in [Nette](https://nette.org) (PHP). It's [fraphpuccino](https://fraphpuccino.com)'s small brother.
+*caphpuccino* is very simple static-like website generator written in [Nette](https://nette.org) (PHP). It's [fraphpuccino](http://fraphpuccino.com)'s small brother.
 
 
 
