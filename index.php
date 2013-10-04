@@ -1,6 +1,6 @@
 <?php
 /**
- * fraphpuccino
+ * caphpuccino
  * Tiny static-like website generator written in Nette (php).
  *
  * For the full copyright and license information, please view
@@ -8,7 +8,7 @@
  *
  * @copyright   Copyright (c) 2013 Tomas Vitek
  * @author      Tomas Vitek ~ http://tomasvitek.com
- * @link        http://github.com/tomikvitek/fraphpuccino
+ * @link        http://github.com/tomikvitek/caphpuccino
  * @version     0.1
  */
 
