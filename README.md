@@ -1,6 +1,6 @@
 ![caphpuccino](/img/caphpuccino.png)
 
-*caphpuccino* is very simple static-like website generator written in [Nette](https://nette.org) (PHP). It's [fraphpuccino](http://fraphpuccino.com)'s small brother.
+*caphpuccino* is very simple static-like website generator written in [Nette](https://nette.org) (PHP). It's [fraphpuccino](http://fraphpuccino.com)'s smaller brother.
 
 
 
@@ -14,7 +14,7 @@
 - For each page create a template in `app/templates`
 - Urls are generated from filename of the template (example: `about-us.latte` will translate to `http://example.com/about-us`)
 - You can use normal HTML as well as [Latte Templates](http://doc.nette.org/en/templating)
-- Place all your images, stylesheets and scripts into appropriate folders in root directory, you can link to them as `{$baseUrl}/img/caphpuccino.png`
+- Place all your images, stylesheets and scripts into appropriate folders in root directory, you can link to them from the templates as `{$baseUrl}/img/caphpuccino.png`
 
 ## Extra Information
 - You can set up email address to be notified when something goes wrong in `index.php`
